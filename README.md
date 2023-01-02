@@ -1,4 +1,4 @@
--👋 Hi, I’m @Darksiders-HF
+-👋 Hi, I’m Darksiders-HF
 - 👀 I’m interested in Nintendo platforms and the cheat code on them
 - 🌱 I’m currently learning  Coding in C++
 - 
